@@ -1,4 +1,4 @@
-# PPS_LAB_PROGRAMS#include <stdio.h>
+#include <stdio.h>
 
 int main() {
     int n, i, j, count;
