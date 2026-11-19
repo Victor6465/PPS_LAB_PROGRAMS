@@ -14,8 +14,7 @@ int main()
 
     for(k = 0; k < 2; k++)
     {
-     mul[i][j] = mul[i][j] +
-     a[i][k] * b[k][j];
+     mul[i][j] = mul[i][j] + a[i][k] * b[k][j];
     }
    }
   }
