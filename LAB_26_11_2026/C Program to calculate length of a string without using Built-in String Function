@@ -12,5 +12,5 @@ int main()
     }
    printf("Length of input string: %d", i);
 
-  return 0;
-  }
+  return 0; 
+}
